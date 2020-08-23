@@ -1,0 +1,38 @@
+body {
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	color: white;
+	text-align: center;
+}
+.jumbotron {
+	padding: 0;
+	background: none;
+}
+.profile {
+	padding-top: 32px;
+	width: 100px;
+	height: auto;
+}
+a {
+	color: black;
+}
+a:hover {
+	color: black;
+}
+footer {
+	position: static;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: white;
+	text-align: center;
+}
+i {
+	color: white;
+	padding: 10px;
+}
+.w3-jumbo {
+	padding: 10px 10px 10px 10px;
+}
